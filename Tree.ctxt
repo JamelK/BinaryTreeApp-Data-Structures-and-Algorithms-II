@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Tree
+comment1.params=lString
+comment1.target=Tree(java.lang.String)
+comment2.params=loclRoot
+comment2.target=void\ preFix(Node)
+comment3.params=loclRoot
+comment3.target=void\ inFix(Node)
+comment4.params=loclRoot
+comment4.target=void\ postFix(Node)
+comment5.params=trvsType
+comment5.target=void\ traverse(int)
+comment6.params=
+comment6.target=void\ displayTree()
+numComments=7
